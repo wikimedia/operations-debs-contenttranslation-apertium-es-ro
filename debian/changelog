@@ -1,3 +1,9 @@
+apertium-es-ro (0.7.3~r57551-2+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 22 Sep 2016 12:30:51 +0530
+
 apertium-es-ro (0.7.3~r57551-1) trusty; urgency=low
 
   [ Tino Didriksen ]
